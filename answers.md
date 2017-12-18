@@ -56,8 +56,3 @@
   INSERT INTO comment (body, post_id, user_id) VALUES ('Riveting commentary!', 5, 3);
   INSERT INTO comment (body, post_id, user_id) VALUES ('Get your own water, like I taught you to.', 6, 1);
   ```
-* Here's the pseudocode: 
-
-  ```txt
-
-  ```
